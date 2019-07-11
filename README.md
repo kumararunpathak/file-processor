@@ -2,17 +2,18 @@ Process the uploaded file based on 5 undescores in the line.
 
 Required sofware: Node and npm
 
-Steps:
+#Steps:
 Go to the folder file-processor:
 
-Run below commands to install dependencies
+#Run below commands to install dependencies
+
 npm install
 
-Run below command to run the application
+#Run below command to run the application
 
 node app.js
 
-To test:
+#To test:
 
 Go to postman or any rest client.
 
@@ -22,7 +23,7 @@ Method: Post
 Body: binary and select a file
 Header: Content-Type: text/plain
 
-Use below sample file from source code folder:
+#Use below sample file from source code folder:
 
 testfile.text
 
