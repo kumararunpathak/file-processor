@@ -3,7 +3,7 @@ Process the uploaded file based on 5 undescores in the line.
 Required sofware: Node and npm
 
 Steps:
-Go to the folder fileupload:
+Go to the folder file-processor:
 
 Run below commands to install dependencies
 npm install
