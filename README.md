@@ -1,4 +1,4 @@
-Process the uploade file based on 5 undescore.
+Process the uploaded file based on 5 undescores in the line.
 
 Required sofware: Node and npm
 
@@ -24,7 +24,7 @@ Header: Content-Type: text/plain
 
 Use below sample file from source code folder:
 
-testfile.tex
+testfile.text
 
 TODO:
 File validation is not done yet
